@@ -1,0 +1,10 @@
+class Single star{
+
+public static void main(String [] arges){
+
+System.out.print("*");
+
+
+}
+}
+
